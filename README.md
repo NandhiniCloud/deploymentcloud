@@ -1,2 +1,0 @@
-# deploymentcloud
-For deployment slot
