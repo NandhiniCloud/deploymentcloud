@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>Index</title>
+</head>
+<body>
+	<h1>First Web Apllication</h2>
+</body>
+</html>
